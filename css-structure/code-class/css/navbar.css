@@ -1,0 +1,29 @@
+/* -----------------------------------------------
+                    Navbar
+--------------------------------------------------- */
+nav {
+    padding: 10px 20px;
+    width: 100%;
+    color: var(--primary-color);
+    border-bottom: 1px solid violet;
+    gap: 20px;
+    background-color: var(--dark-background);
+}
+
+nav h6 {
+    display: inline;
+    color: var(--primary-color);
+}
+
+nav h1 {
+    display: inline;
+    text-align: center;
+    font-size: 30px;
+    margin: 20%;
+    color: var(--primary-color);
+}
+
+nav a {
+    padding: 10px;
+    color: var(--primary-color);
+}

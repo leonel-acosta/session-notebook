@@ -1,0 +1,45 @@
+
+/* -----------------------------------------------
+                    Main
+--------------------------------------------------- */
+
+main {
+    margin-top: 20px;
+    padding: 10px 20px;
+    color: var(--primary-color);
+}
+
+main p {
+    margin: 10px 20px;
+    text-align: justify;
+    color: var(--white-color);
+}
+
+
+ul>li {
+    display: inline-table;
+    width: 200px;
+    margin: 20px 0;
+
+}
+
+main>section>ul>li>h5 {
+    font-weight: 400;
+}
+
+main a {
+    width: 100%;
+    color: rgb(5, 0, 0);
+    text-align: center;
+}
+
+img {
+    width: 100px;
+    border-radius: 5px 20px 5px;
+    margin: 0 auto;
+}
+
+section:nth-child(2) {
+    margin-top: 40px;
+    /* background-color: red; */
+}

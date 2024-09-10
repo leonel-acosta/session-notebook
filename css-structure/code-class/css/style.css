@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+
+    background: rgb(98, 52, 134);
+    background: linear-gradient(180deg,
+            rgba(98, 52, 134, 1) 0%,
+            rgba(142, 64, 218, 1) 33%,
+            rgba(177, 133, 245, 1) 66%,
+            rgba(255, 254, 255, 1) 99%);
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}

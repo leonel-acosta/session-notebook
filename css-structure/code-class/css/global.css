@@ -1,0 +1,16 @@
+:root{
+    --primary-color: rgb(246, 201, 184);
+    --primary-color-light:#e55757;
+    --white-color: #ffffff;
+    --black-color: #000000
+    --round-border: 100px;
+    --bottom-margin:2em;
+    --dark-background:#666666;
+    --light-background:#d8d6d6;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+}

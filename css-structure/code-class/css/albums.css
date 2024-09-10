@@ -1,0 +1,10 @@
+@import "./style.css";
+@import "./navbar.css";
+@import "./header.css";
+@import "./global.css";
+
+.navbar{
+    padding:50px;
+}
+
+
